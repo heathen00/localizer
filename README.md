@@ -61,5 +61,5 @@ work:
    * Get rid of UID subsystem.
    * Maybe use that acceptance testing framework written originally by Robert C Martin ... if you ever remember its name.
      Just remembered: fitnesse.  See fitnesse.org.
-   
- 
+   * add in code reuse licence information (Apache licence?).
+
